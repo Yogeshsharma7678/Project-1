@@ -7,10 +7,10 @@ public class electronicsItem {
     String eCompany;
     int ePrice;
     String eModel;
-	public electronicsItem(int eId, String eame, String eCompany, int ePrice, String eModel) {
+	public electronicsItem(int eId, String eName, String eCompany, int ePrice, String eModel) {
 		
 		this.eId = eId;
-		this.eName = eame;
+		this.eName = eName;
 		this.eCompany = eCompany;
 		this.ePrice = ePrice;
 		this.eModel = eModel;
