@@ -1,5 +1,5 @@
-/* java program to sort the laptop using
- * stram api feature
+/* java program to sort the laptop from the list of item using
+ * stream api feature
  * by YOGESH SHARMA
  */
 
