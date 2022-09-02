@@ -10,12 +10,12 @@ public class electronicShop {
 
 	public static void main(String[] args) {
 	
-		int Al = 0;
-		electronicsItem e1=new electronicsItem(Al,"Television","Samsung",40000,"Smart Tv");
-		electronicsItem e2=new electronicsItem(Al,"Watch","iwatch",30000,"iphne");
-		electronicsItem e3=new electronicsItem(Al,"Cellphoe","Apple",45000,"iphone 11");
-		electronicsItem e4=new electronicsItem(Al,"Laptop","Asus",80000,"Asus A3");
-		electronicsItem e5=new electronicsItem(Al,"Laptop","Apple",90000,"macBook 2 pro");
+		
+		electronicsItem e1=new electronicsItem(01,"Television","Samsung",40000,"Smart Tv");
+		electronicsItem e2=new electronicsItem(02,"Watch","iwatch",30000,"iphne");
+		electronicsItem e3=new electronicsItem(03,"Cellphoe","Apple",45000,"iphone 11");
+		electronicsItem e4=new electronicsItem(04,"Laptop","Asus",80000,"Asus A3");
+		electronicsItem e5=new electronicsItem(05,"Laptop","Apple",90000,"macBook 2 pro");
 		
 		ArrayList<electronicsItem> Al1=new ArrayList<electronicsItem>();
 		Al1.add(e1);
